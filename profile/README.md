@@ -11,3 +11,13 @@
 **자문위원: 박기정**
 
 **문의사항: 99rlwjd@gmail.com**
+
+---
+---
+## Ropositories
+---
+### 알고리즘 개발팀
+- algorithm
+
+### 서비스 개발팀
+- service
