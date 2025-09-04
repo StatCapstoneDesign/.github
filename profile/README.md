@@ -16,7 +16,7 @@
 ---
 ## Ropositories
 ### 알고리즘 개발팀
-- algorithm
+- [algorithm](https://github.com/StatCapstoneDesign/algorithm.git)
 
 ### 서비스 개발팀
-- service
+- [service](https://github.com/StatCapstoneDesign/service.git) 
