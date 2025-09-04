@@ -15,7 +15,6 @@
 ---
 ---
 ## Ropositories
----
 ### 알고리즘 개발팀
 - algorithm
 
